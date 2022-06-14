@@ -13,7 +13,7 @@ winner = None
 game_still_running = True
 
 
-# Who is our current player
+# Who is our current player now
 active_player = "X"
 
 
